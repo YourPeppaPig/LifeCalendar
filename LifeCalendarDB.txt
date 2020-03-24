@@ -1,0 +1,199 @@
+CREATE DATABASE "LifeCalendarDB"
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'Russian_Russia.1251'
+    LC_CTYPE = 'Russian_Russia.1251'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+
+CREATE TABLE public."AccountTable"
+(
+    name text COLLATE pg_catalog."default" NOT NULL,
+    surname text COLLATE pg_catalog."default" NOT NULL,
+    "birthDate" date NOT NULL,
+    avatar text COLLATE pg_catalog."default",
+    status text COLLATE pg_catalog."default",
+    settings text COLLATE pg_catalog."default",
+    "userId" integer NOT NULL,
+    CONSTRAINT "AccountTable_pkey" PRIMARY KEY ("userId"),
+    CONSTRAINT "User_Account_FK" FOREIGN KEY ("userId")
+        REFERENCES public."UserTable" (id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+        NOT VALID
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public."AccountTable"
+    OWNER to postgres;
+
+
+
+CREATE TABLE public."CategoryTable"
+(
+    id integer NOT NULL,
+    name character varying(30) COLLATE pg_catalog."default" NOT NULL,
+    description text COLLATE pg_catalog."default",
+    CONSTRAINT "CategoryTable_pkey" PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public."CategoryTable"
+    OWNER to postgres;
+
+
+CREATE TABLE public."IntentionTable"
+(
+    id integer NOT NULL,
+    "userId" integer NOT NULL,
+    text text COLLATE pg_catalog."default",
+    picture character varying(30) COLLATE pg_catalog."default",
+    "startDate" date NOT NULL,
+    "endDate" date NOT NULL,
+    CONSTRAINT "IntentionTable_pkey" PRIMARY KEY (id),
+    CONSTRAINT "Intention_User_FK" FOREIGN KEY ("userId")
+        REFERENCES public."UserTable" (id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+        NOT VALID
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public."IntentionTable"
+    OWNER to postgres;
+
+CREATE INDEX "fki_Intention_User_FK"
+    ON public."IntentionTable" USING btree
+    ("userId" ASC NULLS LAST)
+    TABLESPACE pg_default;
+
+
+CREATE TABLE public."MentalHealthTable"
+(
+    "userId" integer NOT NULL,
+    mark integer NOT NULL,
+    date date NOT NULL,
+    id integer NOT NULL,
+    CONSTRAINT "MentalHealthTable_pkey" PRIMARY KEY (id),
+    CONSTRAINT "MentalHealth_User_FK" FOREIGN KEY ("userId")
+        REFERENCES public."UserTable" (id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+        NOT VALID
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public."MentalHealthTable"
+    OWNER to postgres;
+
+
+
+CREATE TABLE public."NoteTable"
+(
+    id integer NOT NULL,
+    "userId" integer NOT NULL,
+    "categoryId" integer NOT NULL,
+    picture character varying(30) COLLATE pg_catalog."default",
+    "priorityDay" character varying(30) COLLATE pg_catalog."default",
+    "priorityWeek" character varying(30) COLLATE pg_catalog."default",
+    "priorityYear" character varying(30) COLLATE pg_catalog."default",
+    date date NOT NULL,
+    CONSTRAINT "NoteTable_pkey" PRIMARY KEY (id),
+    CONSTRAINT "Category_Note_FK" FOREIGN KEY ("categoryId")
+        REFERENCES public."CategoryTable" (id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+        NOT VALID,
+    CONSTRAINT "Note_User_FK" FOREIGN KEY ("userId")
+        REFERENCES public."UserTable" (id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+        NOT VALID
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public."NoteTable"
+    OWNER to postgres;
+
+CREATE INDEX "fki_Category_Note_FK"
+    ON public."NoteTable" USING btree
+    ("categoryId" ASC NULLS LAST)
+    TABLESPACE pg_default;
+
+CREATE INDEX "fki_Note_User_FK"
+    ON public."NoteTable" USING btree
+    ("userId" ASC NULLS LAST)
+    TABLESPACE pg_default;
+
+
+
+CREATE TABLE public."RatingTable"
+(
+    id integer NOT NULL,
+    "noteId" integer NOT NULL,
+    mark integer NOT NULL,
+    comment text COLLATE pg_catalog."default",
+    CONSTRAINT "RatingTable_pkey" PRIMARY KEY (id),
+    CONSTRAINT "Rating_Note_FK" FOREIGN KEY ("noteId")
+        REFERENCES public."NoteTable" (id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+        NOT VALID
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public."RatingTable"
+    OWNER to postgres;
+
+CREATE INDEX "fki_Rating_Note_FK"
+    ON public."RatingTable" USING btree
+    ("noteId" ASC NULLS LAST)
+    TABLESPACE pg_default;
+
+
+
+CREATE TABLE public."UserGuestTable"
+(
+    id integer NOT NULL,
+    "userId" integer NOT NULL,
+    "guestId" integer NOT NULL,
+    CONSTRAINT "UserGuestTable_pkey" PRIMARY KEY (id),
+    CONSTRAINT "User_UserGuest_FK" FOREIGN KEY ("userId")
+        REFERENCES public."UserTable" (id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+        NOT VALID
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public."UserGuestTable"
+    OWNER to postgres;
+
+CREATE INDEX "fki_User_UserGuest_FK"
+    ON public."UserGuestTable" USING btree
+    ("userId" ASC NULLS LAST)
+    TABLESPACE pg_default;
+
+
+
+CREATE TABLE public."UserTable"
+(
+    email text COLLATE pg_catalog."default" NOT NULL,
+    password text COLLATE pg_catalog."default" NOT NULL,
+    name text COLLATE pg_catalog."default" NOT NULL,
+    id integer NOT NULL GENERATED ALWAYS AS IDENTITY ( INCREMENT 1 START 1 MINVALUE 1 MAXVALUE 2147483647 CACHE 1 ),
+    CONSTRAINT "UserTable_pkey" PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public."UserTable"
+    OWNER to postgres;
