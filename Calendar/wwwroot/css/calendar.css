@@ -1,0 +1,62 @@
+﻿
+
+.grid {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+.grid-day {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+}
+
+.item-filled {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: blue;
+    border-radius: 4px;
+    border-color: blue;
+    border-width: 1px;
+}
+
+    .item-filled:hover {
+        color: white;
+    }
+
+.item-empty {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 4px;
+    background-color: gray;
+    border-color: gray;
+    border-width: 1px;
+}
+
+    .item-empty:hover {
+        color: white;
+    }
+
+.item-future {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+    border-radius: 4px;
+    background-color: white;
+    border-color: blue;
+    border-style: solid;
+    border-width: 1px;
+}
+
+    .item-future:hover {
+        color: blue;
+    }
