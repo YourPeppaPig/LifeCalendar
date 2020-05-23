@@ -1,0 +1,430 @@
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\LCNew.exe
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.csprojAssemblyReference.cache
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\staticwebassets\LCNew.StaticWebAssets.Manifest.cache
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\staticwebassets\LCNew.StaticWebAssets.xml
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorAssemblyInfo.cache
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorAssemblyInfo.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.AssemblyInfoInputs.cache
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.AssemblyInfo.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.TagHelpers.input.cache
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.TagHelpers.output.cache
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorCoreGenerate.cache
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorTargetAssemblyInfo.cache
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorTargetAssemblyInfo.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.csproj.CopyComplete
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\LCNew.deps.json
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\LCNew.runtimeconfig.json
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\LCNew.runtimeconfig.dev.json
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\LCNew.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\LCNew.pdb
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\LCNew.Views.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\LCNew.Views.pdb
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.Views.pdb
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.dll
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\LCNew.pdb
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\arina.borisova\source\repos\LCNew\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.exe
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.deps.json
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.runtimeconfig.json
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.runtimeconfig.dev.json
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.pdb
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.Views.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.Views.pdb
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.csprojAssemblyReference.cache
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.csproj.CoreCompileInputs.cache
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorAssemblyInfo.cache
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorAssemblyInfo.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.AssemblyInfoInputs.cache
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.AssemblyInfo.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.TagHelpers.input.cache
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.TagHelpers.output.cache
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorCoreGenerate.cache
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorTargetAssemblyInfo.cache
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorTargetAssemblyInfo.cs
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.Views.pdb
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.csproj.CopyComplete
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\staticwebassets\LCNew.StaticWebAssets.Manifest.cache
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\staticwebassets\LCNew.StaticWebAssets.xml
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.dll
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.pdb
+C:\Users\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.genruntimeconfig.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.exe
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.deps.json
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.runtimeconfig.json
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.runtimeconfig.dev.json
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.pdb
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.Views.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\LCNew.Views.pdb
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.csprojAssemblyReference.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.csproj.CoreCompileInputs.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.MvcApplicationPartsAssemblyInfo.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorAssemblyInfo.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorAssemblyInfo.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.AssemblyInfoInputs.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.AssemblyInfo.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.TagHelpers.input.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.TagHelpers.output.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorCoreGenerate.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorTargetAssemblyInfo.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.RazorTargetAssemblyInfo.cs
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.Views.pdb
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.csproj.CopyComplete
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\staticwebassets\LCNew.StaticWebAssets.Manifest.cache
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\staticwebassets\LCNew.StaticWebAssets.xml
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.dll
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.pdb
+C:\Documents and Settings\AavMa\source\repos\LCNew — копия\LCNew\obj\Debug\netcoreapp3.1\LCNew.genruntimeconfig.cache
